@@ -1,0 +1,38 @@
+.typeimg {
+  width: 45px;
+  height: 100px;
+  float: center;
+}
+
+.title a {
+  color: teal;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 0px;
+  line-height: 25px;
+}
+
+.owner {
+  line-height: 20px;
+  color: black;
+}
+
+.description {
+  font-family: "overpass", sans-serif;
+  text-align: justify;
+  font-size: 50px;
+}
+
+.myStatus {
+  float: right;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.myContainer {
+  padding: 5px;
+  max-width: 500px;
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
