@@ -4,7 +4,7 @@
   float: center;
 }
 
-.tdBox{border: solid black 1pt;}
+td{border: solid black 1pt;}
 
 .title a {
   color: teal;
