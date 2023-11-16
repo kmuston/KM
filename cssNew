@@ -1,3 +1,4 @@
+th{background-color: #BA0C2F!important;word-break: break-word;}
 .typeimg {
   width: 45px;
   height: 100px;
