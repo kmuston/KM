@@ -4,6 +4,8 @@
   float: center;
 }
 
+.tdBox{border: solid black 1pt;}
+
 .title a {
   color: teal;
   font-size: 20px;
